@@ -26,15 +26,3 @@ For example, `FEC 2:1` means that it sends one extra packet for every two packet
 
 ![Menu](https://github.com/Erfantls/GamingVPN/blob/main/menu/menu.png?raw=true)
 
-# My Telegram channel
-Check the channel below for more information:
-https://t.me/Gozar_Xray
-
- # Support the project
- <a href="https://nowpayments.io/donation?api_key=6Z16MRY-AF14Y8T-J24TXVS-00RDKK7&source=lk_donation&medium=referral" target="_blank">
- <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments">
- </a>
-
-
-# Source code
-https://github.com/wangyu-/tinyfecVPN
