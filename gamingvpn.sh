@@ -65,8 +65,8 @@ install_gamingvpn() {
     # Define the directory and files
     DEST_DIR="/root/gamingvpn"
     FILE="/root/gamingvpn/gamingvpn"
-    URL_X86="https://github.com/Musixal/GamingVPN/raw/main/core/gamingvpn_amd64"
-    URL_ARM="https://github.com/Musixal/GamingVPN/raw/main/core/gamingvpn_arm"              
+    URL_X86="https://github.com/Erfantls/GamingVPN/raw/main/core/gamingvpn_amd64"
+    URL_ARM="https://github.com/Erfantls/GamingVPN/raw/main/core/gamingvpn_arm"              
       
     echo
     if [ -f "$FILE" ]; then
@@ -145,8 +145,8 @@ display_logo() {
 EOF
     echo -e "${NC}${CYAN}"
     echo -e "Version: ${YELLOW}0.6${CYAN}"
-    echo -e "Github: ${YELLOW}Github.com/Musixal/GamingVPN${CYAN}"
-    echo -e "Telegram Channel: ${YELLOW}@Gozar_Xray${NC}"
+    echo -e "Github: ${YELLOW}Github.com/Erfantls/GamingVPN${CYAN}"
+    echo -e "Telegram Channel: ${YELLOW}@IRANxTLS${NC}"
 }
 
 # Function to display server location and IP
